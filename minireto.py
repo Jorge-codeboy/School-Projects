@@ -84,3 +84,4 @@ if d or (not a and b) or (not a and not c) or (b and not c) or (a and not b and 
   print(strHor)
 print("---------------")
 print("Coded by CodeJ")
+input()
